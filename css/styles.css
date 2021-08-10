@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  background-color: #EEEEEE;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  line-height: 2;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+
+ul {
+  list-style: none;
+}
+
+/*------------------------- navigation bar -------------------------*/
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  padding: 0 18px;
+}
+
+.dropdown-item {
+  padding: 0 10px 0 0;
+}
+
+/*------------------------- Heading -------------------------*/
+.heading {
+  margin-top: 5%;
+  color: #fff;
+}
+/*------------------------- Pictures -------------------------*/
+.Pic{
+height: auto;
+width: 100%;
+}
+
+/*------------------------- Card body ----------------------*/
+.card{
+  margin-top: 5%;
+  width: 20rem;
+}
+/*------------------------- Footer -------------------------*/
+.text {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #EEEEEE;
+  color: black;
+}
+
+.btn{
+margin: 0 0.5rem 1rem 0.5rem;
+}
